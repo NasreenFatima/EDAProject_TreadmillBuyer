@@ -10,17 +10,17 @@ characteristics.
 The company collected data on individuals who purchased a treadmill from the AeroFit
 stores during the prior three months. The dataset in aerofit_treadmill_data.csv has the
 following features:
-1 Product - product purchased: KP281, KP481, or KP781
-2 Age - in years
-3 Gender - male/female
-4 Education - in years
-5 MaritalStatus - single or partnered
-6 Usage - the average number of times the customer plans to use the treadmill
-each week
-7 Fitness - self-rated fitness on a 1-5 scale, where 1 is the poor shape and 5 is the
-excellent shape
-8 Income - annual income in US dollars
-9 Miles - the average number of miles the customer expects to walk/run each week
+1. Product - product purchased: KP281, KP481, or KP781.
+2. Age - in years.
+3. Gender - male/female.
+4. Education - in years.
+5. MaritalStatus - single or partnered.
+6. Usage - the average number of times the customer plans to use the treadmill
+each week.
+7. Fitness - self-rated fitness on a 1-5 scale, where 1 is the poor shape and 5 is the
+excellent shape.
+8. Income - annual income in US dollars.
+9. Miles - the average number of miles the customer expects to walk/run each week.
 
 ## Analyze:
 1. From my first analyzation I saw that age group 20-29 frequently appear which shows
